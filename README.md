@@ -3,7 +3,7 @@
 
 <h4 align="center">I'm an undergraduate Computer Science student. !!!</h3>
 <div class='flex-box'>
-<img src="https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
+<img src="https://github.com/Saphalta7/Saphalta7/blob/main/ezgif.com-gif-maker.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
    <ul style="display: flex; float: right; list-style-type: square;">
       <br>
