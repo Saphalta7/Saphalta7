@@ -8,9 +8,9 @@
    <ul style="display: flex; float: right; list-style-type: square;">
       <br>
 <li>🔭 I’m currently learning everything 🧑🏻‍💻</li>
-<li>🌱 Growing mentally, technically, growing old too, but yes growing in general...</li>
+<li>🌱 Passionate about continuous growth in the dynamic tech field, I thrive on embracing new challenges, expanding my skill set, and contributing to cutting-edge projects that push the boundaries of innovation.</li>
 <li>👯 I’m looking to collaborate with other content creators</li>
-<li>🥅 Goals: Contribute more to Open Source projects/learn and learn and then learn</li>
+<li>🥅 Goals: Contribute more to Open Source projects/  expand my expertise, engage in diverse projects that foster personal growth while making valuable contributions to the world of technology</li>
 </ul>   
 </div>
 
