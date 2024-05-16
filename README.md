@@ -1,7 +1,7 @@
 <h1 align="center">Hi guys👋 I'm Saphalta </h1>
 <h1 align='center'>👩🏽‍💻</h1>
 
-<h4 align="center">I am an undergraduate Computer Science student. !!!</h3>
+<h4 align="center">I am a Computer Science graduate looking for a data analyst/ engineer job. !!!</h3>
 <div class='flex-box'>
 <img src="https://github.com/Saphalta7/Saphalta7/blob/main/ezgif.com-gif-maker.gif?raw=true" width='350' style='display: flex; flex:50%; float: right; flex-wrap: wrap; justify-content: space-between; width=100%, min-width:15%; margin:0;' align='right' >
 
