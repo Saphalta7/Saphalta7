@@ -21,7 +21,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/saphalta-kumal-5496321a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saphalta kumal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saphalta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saphalta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sbrai91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saphalta" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18467777/saphalta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16971472" height="30" width="40" /></a>
 </p>
